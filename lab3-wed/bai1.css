@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    margin: 10px 10px;
+    
+    
+}
+.header{
+    background: #EEEEEE;
+    padding: 10px;
+    margin: auto;
+
+
+}
+.menu{
+    background: #EEEEEE;
+    margin: auto;
+    
+}
+.nd1{
+    width: 20%;
+    background: #EEEEEE;
+    margin: auto;
+    margin-left: 0;
+    
+}
+.nd2{
+    width: 55%;
+    background: #EEEEEE;
+    margin: auto;
+}
+.nd3{
+    width: 20%;
+    background: #EEEEEE;
+    margin: auto;
+    margin-right: 0;
+}
+.noidung{ 
+    display: flex;;
+}
+.footer{
+    background: #EEEEEE;
+    margin: auto;
+
+}
+
