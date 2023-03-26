@@ -1,0 +1,49 @@
+
+.header{
+    display: flex;
+    text-align: center;
+    margin: 10px 10px;
+    
+}
+.name{
+    display: flex;
+    margin: auto;
+}
+.timkiem{
+    margin: auto;
+}
+.menu{
+    display: grid;
+    gap: 30px;
+    padding: 10px;
+   
+}
+.git-item{
+   
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;  
+}
+.item1{
+    grid-row: 1/4;
+   
+}
+.item2{
+    grid-column: 2/3;
+}
+.item3{
+    grid-column: 3/4;
+}
+.item4{
+    grid-column: 4/5;
+}
+@media screen and (min-width: 400px){
+    
+    
+}
+@media screen and (max-width: 400px){
+    
+}
+
+
+
